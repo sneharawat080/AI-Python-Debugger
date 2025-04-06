@@ -52,16 +52,3 @@ The goal is to detect bugs in user-written Python code and provide intelligent s
 git clone https://github.com/yourusername/ai-python-debugger.git
 cd ai-python-debugger
 python main.py
-
-## 🤝 Contribution
-Contributions, suggestions, and improvements are welcome!
-Feel free to fork the repo, open issues, or submit pull requests.
-
-📄 License
-This project is licensed under the MIT License.
-See the LICENSE file for more details.
-
-👨‍💻 Author
-Sneha Rawat
-🔗 LinkedIn - https://www.linkedin.com/in/sneha-rawat-242331275/
-📧 sneharawat080.email@gmail.com
